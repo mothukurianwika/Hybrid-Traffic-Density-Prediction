@@ -166,7 +166,7 @@ using scatter plots.
 
 **Scatter Plot**
 
-![Graph]("C:\Users\anwik\OneDrive\Desktop\traffic congestion\traffic congestion\graph.png")
+![Graph](<"C:\Users\anwik\OneDrive\Desktop\traffic congestion\traffic congestion\graph.png">)
 
 ---
 
