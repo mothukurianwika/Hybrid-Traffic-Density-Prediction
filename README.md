@@ -193,7 +193,7 @@ Hybrid-Traffic-Density-Prediction
 Clone the repository:
 
 ```bash
-git clone https://github.com/anwikamothukuri/Hybrid-Traffic-Density-Prediction.git
+git clone https://github.com/mothukurianwika/Hybrid-Traffic-Density-Prediction.git
 ```
 
 Install the required packages:
@@ -228,4 +228,4 @@ B.Tech Computer Science Engineering
 
 VIT-AP University
 
-GitHub: https://github.com/anwikamothukuri
+GitHub: https://github.com/mothukurianwika
