@@ -156,15 +156,18 @@ using scatter plots.
 
 **Evaluation Metrics**
 
-![Evaluation](c:\Users\anwik\Downloads\evaluation.png)
+![Evaluation](<img width="1048" height="715" alt="evaluation" src="https://github.com/user-attachments/assets/ea2fd91a-659c-4d47-b7e7-369ee0fb1c45" />
+)
 
 **Traffic Density Prediction**
 
-![Prediction](c:\Users\anwik\Downloads\prediction.png)
+![Prediction](<img width="436" height="388" alt="prediction" src="https://github.com/user-attachments/assets/9f362c29-bee0-476b-93a7-e07084727a27" />
+)
 
 **Scatter Plot**
 
-![Graph](c:\Users\anwik\Downloads\graph.png)
+![Graph](<img width="802" height="678" alt="graph" src="https://github.com/user-attachments/assets/cf791ff0-969b-4cf1-8a1c-c1ba0fe1196d" />
+)
 
 ---
 
