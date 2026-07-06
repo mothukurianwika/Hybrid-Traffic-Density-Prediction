@@ -167,6 +167,8 @@ using scatter plots.
 **Scatter Plot**
 
 ![Graph](<"C:\Users\anwik\OneDrive\Desktop\traffic congestion\traffic congestion\graph.png">)
+<img width="802" height="678" alt="graph" src="https://github.com/user-attachments/assets/deb64711-6865-42b7-b076-8d43ba4a96cc" />
+
 
 ---
 
