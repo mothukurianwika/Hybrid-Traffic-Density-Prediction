@@ -156,17 +156,16 @@ using scatter plots.
 
 **Evaluation Metrics**
 
-![Evaluation](<img width="1048" height="715" alt="evaluation" src="https://github.com/user-attachments/assets/ea2fd91a-659c-4d47-b7e7-369ee0fb1c45" />
-)
+<img width="1048" height="715" alt="evaluation" src="https://github.com/user-attachments/assets/612d1456-6285-44b9-8129-14d497628401" />
+
 
 **Traffic Density Prediction**
 
-![Prediction](<img width="436" height="388" alt="prediction" src="https://github.com/user-attachments/assets/9f362c29-bee0-476b-93a7-e07084727a27" />
-)
+<img width="436" height="388" alt="prediction" src="https://github.com/user-attachments/assets/d0d1011f-c2c0-46d1-8fca-430d904768d1" />
+
 
 **Scatter Plot**
 
-![Graph](<"C:\Users\anwik\OneDrive\Desktop\traffic congestion\traffic congestion\graph.png">)
 <img width="802" height="678" alt="graph" src="https://github.com/user-attachments/assets/deb64711-6865-42b7-b076-8d43ba4a96cc" />
 
 
